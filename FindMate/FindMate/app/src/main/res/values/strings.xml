@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">BUDDY!</string>
+
+    <string-array name="Situations">
+        <item>-No filter-</item>
+        <item>Looking for a flat/room to stay</item>
+        <item>Looking for a flat/room mate</item>
+        <item>Not looking for a flat/mate</item>
+    </string-array>
+
+    <string-array name="Departments">
+        <item>Select department</item>
+        <item>Computer Education and Instructional Technology</item>
+        <item>Educational Sciences</item>
+        <item>Mathematics and Science Education</item>
+        <item>Primary Education</item>
+        <item>Turkish Language and Social Sciences Education</item>
+        <item>Foreign Languages Education</item>
+        <item>Computer Engineering</item>
+        <item>Biomedical Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Electronics and Communications Engineering</item>
+        <item>Control and Automation Engineering</item>
+        <item>Western Languages and Literatures</item>
+        <item>Physics</item>
+        <item>Statistics</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>Molecular Biology and Genetics</item>
+        <item>Turkish Language and Literature</item>
+        <item>Naval Architecture and Marine Engineering</item>
+        <item>Marine Engineering</item>
+        <item>Economics</item>
+        <item>Business Administration</item>
+        <item>Political Science and International Relations</item>
+        <item>Environmental Engineering</item>
+        <item>Geomatic Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Bioengineering</item>
+        <item>Food Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Mathematical Engineering</item>
+        <item>Metallurgical and Materials Engineering</item>
+        <item>Industrial Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Conservation and Restoration of Cultural Property</item>
+        <item>Architecture</item>
+        <item>Urban and Regional Planning</item>
+        <item>Communication and Design</item>
+        <item>Music and Performing Arts</item>
+        <item>Art</item>
+        <item>Aviation Electronics</item>
+    </string-array>
+</resources>
